@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001-springcloud-test-config/001-springcloud-test-config.iml" filepath="$PROJECT_DIR$/001-springcloud-test-config/001-springcloud-test-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-springcloud-test-consume01/001-springcloud-test-consume01.iml" filepath="$PROJECT_DIR$/001-springcloud-test-consume01/001-springcloud-test-consume01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-springcloud-test-interface/001-springcloud-test-interface.iml" filepath="$PROJECT_DIR$/001-springcloud-test-interface/001-springcloud-test-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-springcloud-test-parent/001-springcloud-test-parent.iml" filepath="$PROJECT_DIR$/001-springcloud-test-parent/001-springcloud-test-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-springcloud-test-provider01/001-springcloud-test-provider01.iml" filepath="$PROJECT_DIR$/001-springcloud-test-provider01/001-springcloud-test-provider01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-springcloud-test-provider02/001-springcloud-test-provider02.iml" filepath="$PROJECT_DIR$/001-springcloud-test-provider02/001-springcloud-test-provider02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-springcloud-test-zuul/001-springcloud-test-zuul.iml" filepath="$PROJECT_DIR$/001-springcloud-test-zuul/001-springcloud-test-zuul.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/001-springcloud-test-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/001-springcloud-test-consume01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/001-springcloud-test-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/001-springcloud-test-provider01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/001-springcloud-test-provider02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/001-springcloud-test-provider02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/001-springcloud-test-zuul/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
