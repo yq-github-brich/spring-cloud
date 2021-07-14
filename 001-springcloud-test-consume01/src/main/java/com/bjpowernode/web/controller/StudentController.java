@@ -17,6 +17,9 @@ public class StudentController {
     @Value("${spring.application.name}")
     private String name;
 
+    @Value("${change.set}")
+    private String change;
+
     @Autowired
     private StudentRemoteClient studentRemoteClient;
 
@@ -24,6 +27,7 @@ public class StudentController {
     @RequestMapping("/get/{id}")
     public Student getStudent(@PathVariable("id") Integer id){
         System.out.println(name);
+        System.out.println(change);
         return studentRemoteClient.getStudent(id);
     }
 
